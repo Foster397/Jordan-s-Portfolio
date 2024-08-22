@@ -3,7 +3,7 @@ Data Analytics Portfolio
 
 # [Project 1: Kansas City Crime vs Housing Prices](https://github.com/Foster397/Portfolio?tab=readme-ov-file#portfolio-project)
 
-#### This project was built using Excel, BigQuery (SQL), and Tableau.
+### This project was built using Excel, BigQuery (SQL), and Tableau.
 
 1. The housing data was scraped on 07/26/2024 and only represents houses on the market at that time.
    * All unnecessary, redundant, or null data was removed.
@@ -16,5 +16,7 @@ Data Analytics Portfolio
    * A 'category' column was added to categorize the crimes into four simple labels.
    * About 16,000 records were removed either because of incomplete data or the crimes were traffic-related and therfore
    don't accurately account for the amount of crime in a certain zip code.
+
+### The visual I made for this project can be found on [Tableau](https://public.tableau.com/app/profile/jordan.foster7733/viz/KansasCityCrimevsHousingPrices/Dashboard1)
 
 #### All of the code and files can be found on the linked repository. 
