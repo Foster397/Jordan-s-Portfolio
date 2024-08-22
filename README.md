@@ -11,6 +11,7 @@ Data Analytics Portfolio
    *  Unmatching data types were corrected (such as some property sizes being recorded in sqft and others in acres).
 
 2. The crime data was found at [Open Data KC](https://data.kcmo.org/Crime/KCPD-Crime-Data-2023/bfyq-5nh6/about_data)
+   * This data is the full report from 2023 data. 
    * Dates and times were split into separate columns to preserve the data integrity when importing into BigQuery.
    * A 'category' column was added to categorize the crimes into four simple labels.
    * About 16,000 records were removed either because of incomplete data or the crimes were traffic-related and therfore
